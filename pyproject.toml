@@ -1,0 +1,8 @@
+[project]
+name = "fixture-py-red-base"
+version = "1.0.0"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest==8.3.4"]

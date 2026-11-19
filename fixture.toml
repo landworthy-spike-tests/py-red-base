@@ -1,0 +1,4 @@
+stack = "py"
+shape = "red-base"
+protection = "required-check"
+expect = "python -m pytest"
